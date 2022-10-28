@@ -17,8 +17,10 @@ Amazon SNS.
 
 ## Tech Stack:
 **➔ Languages** - SQL, Python3
+
 **➔ Services** - AWS S3, AWS Glue, AWS Athena, AWS Cloud9, Apache Flink, Amazon Kinesis,
 Amazon SNS, AWS Lambda, Amazon CloudWatch, Grafana, Apache Zepplin
 
 ## Architecture
 
+<img width="740" alt="Screen Shot 2022-10-27 at 6 43 22 PM" src="https://user-images.githubusercontent.com/68578215/198446054-78a6443b-98eb-465e-8e60-faaf7c029779.png">
