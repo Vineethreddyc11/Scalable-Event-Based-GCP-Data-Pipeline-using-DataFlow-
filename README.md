@@ -16,10 +16,9 @@ us analyze and take quick actions using AWS Kinesis, Apache Flink, Grafana, and
 Amazon SNS.
 
 ## Tech Stack:
-**➔ Languages** - SQL, Python3
-
-**➔ Services** - AWS S3, AWS Glue, AWS Athena, AWS Cloud9, Apache Flink, Amazon Kinesis,
-Amazon SNS, AWS Lambda, Amazon CloudWatch, Grafana, Apache Zepplin
+Tech Stack
+➔ Language: Python3.7
+➔ Services: Cloud Composer, Google Cloud Storage (GCS), Pub-Sub, Cloud Functions, BigQuery, BigTable
 
 ## Architecture
 <img width="699" alt="Screen Shot 2023-02-02 at 11 49 59 AM" src="https://user-images.githubusercontent.com/68578215/216435061-a7b6f29f-8bf7-4a99-be60-29bf04c0fb28.png">
