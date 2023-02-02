@@ -22,5 +22,4 @@ Amazon SNS.
 Amazon SNS, AWS Lambda, Amazon CloudWatch, Grafana, Apache Zepplin
 
 ## Architecture
-
-<img width="740" alt="Screen Shot 2022-10-27 at 6 43 22 PM" src="https://user-images.githubusercontent.com/68578215/198446054-78a6443b-98eb-465e-8e60-faaf7c029779.png">
+<img width="699" alt="Screen Shot 2023-02-02 at 11 49 59 AM" src="https://user-images.githubusercontent.com/68578215/216435061-a7b6f29f-8bf7-4a99-be60-29bf04c0fb28.png">
